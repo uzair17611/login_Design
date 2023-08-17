@@ -1,0 +1,54 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    flex-direction: column;
+    background-color:transparent;
+    width:200px;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 500px;
+    margin-top: 20px;
+   opacity: 1;
+   z-index:2;
+   background-color:transparent;
+   break-inside: avoid-column;
+   
+   
+}
+.firstName{
+    
+    margin-bottom: 20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Lastname{
+   
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.email{
+   
+  
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.password{
+  
+    margin-bottom: 20px;
+    font-weight: bold;
+ 
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+
+    
+}
